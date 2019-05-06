@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tonton</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="input_value">Digite o valor da unidade</string>
+    <string name="total_value">Valor total: </string>
+    <string name="update_value">Atualizar valor</string>
+    <string name="atual_value">Valor atual: </string>
+</resources>
